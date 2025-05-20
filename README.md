@@ -1,6 +1,8 @@
 # Showwpost
 A browser extension to post content on Showwcase, from the current tab you have opened.
 
+> ⚠️ This project was originally developed and published under [my old GitHub account](https://github.com/swapn652/Showwpost), which I no longer have access to.
+
 ## To setup the project locally,
 
 1. Fork and clone it on your device.
